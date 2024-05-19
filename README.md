@@ -1,0 +1,2 @@
+# kubectl-ai
+kubectl-ai
